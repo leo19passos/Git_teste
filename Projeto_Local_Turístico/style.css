@@ -88,5 +88,6 @@ h4 {
 }
 footer {
     text-align: center;
-    color:#F0E8C2
+    color:#F0E8C2;
+    text-transform: lowercase;
 }
